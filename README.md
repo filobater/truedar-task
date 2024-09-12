@@ -1,5 +1,3 @@
-
-
 Installtion:<br/>
 Clone this repository: git clone [https://github.com/filobater/truedar-task.git](https://github.com/filobater/truedar-task.git)<br/>
 Install dependencies: `npm install`<br/>
